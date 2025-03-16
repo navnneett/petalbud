@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: flex-start; 
+  justify-content: flex-start;
+    padding: 1rem;
+    margin: 0;
+    
+  }
+  
+  .header img {
+    width: 180px; 
+    height: auto; 
+  }  
+  
+  .paragraph {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px; /* Add padding as needed */
+    background-color: var(--gray); /* Add a background color if desired */
+    border-radius: 8px; /* Add rounded corners if desired */
+    line-height: 1.5;
+    color: var(--dark-green);
+    opacity: 0.7;
+    font-size: var(--medium-font);
+    font-family: var(--main-font-family);
+  }

@@ -1,0 +1,14 @@
+:root {
+    --dark-green: #00342b;
+    --gray: #f0f0f0;
+    
+    --large-font: 20px;
+    --medium-font: 17px;
+    --small-font: 14px;
+    --main-font-family: Arial, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
