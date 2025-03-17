@@ -5,7 +5,7 @@ export default function Header() {
     <header className={styles.header}>
      
      <div className={styles.paragraph}>
-        <img src="/images/Head.png" alt="Story Title-Petalbud" />
+        <img src="/images/head.PNG" alt="Story Title-Petalbud" />
         <p>
           Lumina discovers a hidden realm filled with forest spirits.
           A curious baby Petalbud spirit named Bloom emerges, capturing the hearts of the spirits. 
